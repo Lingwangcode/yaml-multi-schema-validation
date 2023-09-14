@@ -1,3 +1,5 @@
 car:
   manufacturer: volvo
-  model:
+  model: String
+  year: String
+  reg: String
