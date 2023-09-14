@@ -1,7 +1,7 @@
 car:
   manufacturer: volvo
   model: String
-  year: 2023
+  year: "2023"
   reg: String
   attributes:
     - true
