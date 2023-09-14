@@ -1,5 +1,7 @@
 car:
   manufacturer: volvo
   model: String
-  year: String
+  year: 2023
   reg: String
+  attributes:
+    - true
