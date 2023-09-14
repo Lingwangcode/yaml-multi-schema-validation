@@ -9,5 +9,5 @@ computer:
     type: DDR4
   disk:
      manufacturer: Seagate
-      size: 1 TB
-      type: SSD
+     size: 1 TB
+     type: SSD
