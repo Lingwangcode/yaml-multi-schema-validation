@@ -1,13 +1,13 @@
 computer:
   cpu:
     manufacturer: asus
-    frequency: 3.2 GHz
+    frequency: 3.2
     cores: 8
   memory:
     manufacturer: Kingston
-    size: 16 GB
+    size: 16
     type: DDR4
   disk:
      manufacturer: Seagate
-     size: 1 TB
+     size: 1
      type: SSD
