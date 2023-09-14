@@ -4,4 +4,4 @@ car:
   year: "2023"
   reg: String
   attributes:
-    - true
+    - attri1
