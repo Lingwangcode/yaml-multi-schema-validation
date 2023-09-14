@@ -1,3 +1,13 @@
 computer:
   cpu:
+    manufacturer:
+    frequency:
     cores: 8
+  memory:
+    manufacturer:
+    size:
+    type:
+  disk:
+     manufacturer:
+      size:
+      type:
