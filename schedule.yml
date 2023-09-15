@@ -1,7 +1,7 @@
 schedule:
   program: java
   lessons:
-    lesson_1:
+    - lesson_1:
       description: java basics
       date: "2023-02-01"
   year: "2023"
