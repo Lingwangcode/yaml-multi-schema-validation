@@ -2,8 +2,6 @@ schedule:
   program: java
   lessons:
     - date: "2022-02-01"
+    - description: java basics
   year: 2023
-  lessons:
-    -lesson_1:
-      description: java basics
         
